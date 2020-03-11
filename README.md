@@ -1,0 +1,2 @@
+# Project.class
+simple project
